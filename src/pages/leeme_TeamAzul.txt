@@ -1,0 +1,7 @@
+Index.JS:
+    Carga HomePage
+
+HomePage:
+    *Importa las paginas y componentes
+    *Su export default es un Switch con las rutas
+    *    
